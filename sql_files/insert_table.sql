@@ -1,0 +1,1 @@
+COPY weather FROM '/store_files_postgres/weather.csv' DELIMITER ',' CSV HEADER;
